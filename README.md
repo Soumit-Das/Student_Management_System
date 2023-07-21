@@ -12,6 +12,13 @@ The project structure follows the standard conventions for a Spring Boot applica
 4
 .
 
+Tech stack used
+
+1. HTML
+2. CSS
+3. JavaScript
+4. Springboot
+5. MySQL
 
 Here is an example of the recommended project structure:
 
@@ -33,6 +40,8 @@ Here is an example of the recommended project structure:
       - // Configuration files, templates, static files, etc.
 
 You can customize the structure based on your specific needs, but it's generally a good practice to follow the recommended conventions.
+
+
 
 Getting Started
 
